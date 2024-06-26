@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 - 5 - i2c scl
 - 7 - lcd cs
 - 12 - lcd dc
-- 18 - lcd reset
+- 13 - lcd reset
 
 ## Support
 
