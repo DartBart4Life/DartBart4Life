@@ -25,13 +25,13 @@ You can click the Preview link to take a look at your changes.
 
 Возможно стоит рассмотреть ethernet-интерфейс (wiznet), в угоду универсальности контроллера и стабильности работы соединения с умным домом (сценарий, когда нет стабильного соединения wi-fi с котельной ввиду удаленности её, и возможно тогда протянуть кабель легче).
 ## GPIO
-2 - lcd sclk
-3 - lcd mosi
-4 - i2c sda 
-5 - i2c scl
-7 - lcd cs
-12 - lcd dc
-18 - lcd reset
+- 2 - lcd sclk
+- 3 - lcd mosi
+- 4 - i2c sda 
+- 5 - i2c scl
+- 7 - lcd cs
+- 12 - lcd dc
+- 18 - lcd reset
 
 ## Support
 
