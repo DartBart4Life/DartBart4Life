@@ -41,6 +41,9 @@ Buttons:
 - GPIO0
 - GPIO1
 
+Relay output:
+- GPIO6
+
 UART0 (OpenTHERM)
 
 ## Support
